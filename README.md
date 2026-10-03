@@ -276,10 +276,6 @@ The system can be extended with the following features:
 - Reporting and dashboards
 - Real-time metro service information
 
-## Project Author
-
-Amreen
-
 ## Project
 
 ServiceNow Metro Ticket Generating System
